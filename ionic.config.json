@@ -1,0 +1,7 @@
+{
+  "name": "lsc_base",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular-standalone"
+}
