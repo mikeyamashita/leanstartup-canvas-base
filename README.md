@@ -1,1 +1,1 @@
-lean startup canvas using tailwind css
+lean startup canvas using angular 17 and tailwind css
